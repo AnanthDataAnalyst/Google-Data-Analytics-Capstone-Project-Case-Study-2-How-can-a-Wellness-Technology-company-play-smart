@@ -102,7 +102,7 @@ SEDENTARY ACTIVE
 THE ABOVE CALCULATIONS WERE DONE WITH THE HELP OF PIVOT TABLE.
 
 
-
+![Screenshot (86)](https://user-images.githubusercontent.com/128831771/227768545-04b78d9c-bb87-44a1-942b-797f98da40a8.png)
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/128831771/227764598-d7edb946-90c3-4385-8090-9458c85b7a30.png)
 
